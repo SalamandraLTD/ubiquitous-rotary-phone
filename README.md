@@ -1,3 +1,4 @@
+[users.txt.txt](https://github.com/SalamandraLTD/ubiquitous-rotary-phone/files/15438814/users.txt.txt)
 from telegram import Bot
 from telethon.sync import TelegramClient
 from telethon.tl.functions.channels import InviteToChannelRequest
