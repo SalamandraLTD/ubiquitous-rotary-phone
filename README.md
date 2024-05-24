@@ -2,11 +2,11 @@ from telegram import Bot
 from telethon.sync import TelegramClient
 from telethon.tl.functions.channels import InviteToChannelRequest
 
-API_ID = "YOUR_API_ID"
-API_HASH = "YOUR_API_HASH"
-PHONE_NUMBER = "YOUR_PHONE_NUMBER"
-CHANNEL_USERNAME = "YOUR_CHANNEL_USERNAME"
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+API_ID = "26857372"
+API_HASH = "4b7bb8278ade1daaab424563b5b2b789"
+PHONE_NUMBER = "+79185744215"
+CHANNEL_USERNAME = "@secretumo"
+BOT_TOKEN = "6797002864:AAH5F4qxU-v7ICugrjylBGpQqXkWTXJakmI"
 
 # Функция для инвайта пользователей
 def invite_users(users, channel_username):
